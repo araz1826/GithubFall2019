@@ -24,6 +24,9 @@ package day1;
 // blue color means existed and already pushed to github.
 // green color class name means: not pushed to github yet.
 
+//commit 494e74cc3d6c7932cac7babbe9842ca9e127ee0e   : it is in respiratory, it is commit id or hash
+
+
                                 // after you set up all there are 3 commands u will use
 
 // git add .
