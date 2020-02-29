@@ -27,7 +27,7 @@ package day1;
                                 // after you set up all there are 3 commands u will use
 
 // git add .
-// git commit -m "commit message"
+// git commit -m "commit message"     ("" inside this you can add your note)
 //git push
 
 public class StringPractice {
