@@ -20,6 +20,16 @@ package day1;
 //git push -u origin master
 
 //git status// when u add something put this in terminal and see what MODIFIED(red color)
+
+// blue color means existed and already pushed to github.
+// green color class name means: not pushed to github yet.
+
+                                // after you set up all there are 3 commands u will use
+
+// git add .
+// git commit -m "commit message"
+//git push
+
 public class StringPractice {
     public static void main(String[] args) {
         System.out.println("hello world");
