@@ -26,6 +26,8 @@ package day1;
 
 //commit 494e74cc3d6c7932cac7babbe9842ca9e127ee0e   : it is in respiratory, it is commit id or hash
 
+//you can push with commit sign in intellij but you have to use codes when u use terminal
+
 
                                 // after you set up all there are 3 commands u will use
 
