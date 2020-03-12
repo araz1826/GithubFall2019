@@ -17,6 +17,7 @@ package day1;
 
 //git remote add origin https://github.com/araz1826/GithubFall2019.git  // we get this from github after creating repository and add to terminal
 
+
 //git push -u origin master
 
 //git status// when u add something put this in terminal and see what MODIFIED(red color)
